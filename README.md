@@ -1,6 +1,6 @@
 # REGISTRATION FORM
 
-Simple Auth HTML Template for VueJS Web Sites/Applications
+Simple HTML Template for VueJS Web Sites/Applications
 
 
 
